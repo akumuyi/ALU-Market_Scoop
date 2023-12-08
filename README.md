@@ -7,7 +7,7 @@ ALU Market Scoop is a Python script that provides real-time market information a
 ## Usage
 
 To run the script, make sure you have Python 3 installed. Open a terminal and execute the following commands:
-'''bash
+'''
 python3 alu_market_scoop.py
 ```
 
